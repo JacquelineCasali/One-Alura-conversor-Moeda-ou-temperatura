@@ -16,7 +16,7 @@
 <img src="2023-08-23_151138.png">
 
 
-<img src="Video_2023-08-23_150828.wmv">
+
 
 
 ## Pré-requisitos do projeto:
